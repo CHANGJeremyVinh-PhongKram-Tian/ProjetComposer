@@ -1,0 +1,13 @@
+{
+    "name": "jchan/mon-projet-composer",
+    "autoload": {
+        "psr-4": {
+            "Jchan\\MonProjetComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chang"
+        }
+    ]
+}
